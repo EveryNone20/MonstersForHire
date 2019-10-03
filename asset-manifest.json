@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MonstersForHire/static/css/main.37187d87.chunk.css",
+    "main.js": "/MonstersForHire/static/js/main.b4e1d5ba.chunk.js",
+    "main.js.map": "/MonstersForHire/static/js/main.b4e1d5ba.chunk.js.map",
+    "runtime~main.js": "/MonstersForHire/static/js/runtime~main.e62c7f40.js",
+    "runtime~main.js.map": "/MonstersForHire/static/js/runtime~main.e62c7f40.js.map",
+    "static/js/2.65aa1cca.chunk.js": "/MonstersForHire/static/js/2.65aa1cca.chunk.js",
+    "static/js/2.65aa1cca.chunk.js.map": "/MonstersForHire/static/js/2.65aa1cca.chunk.js.map",
+    "index.html": "/MonstersForHire/index.html",
+    "precache-manifest.e0d21ac1019368676ead2e9fc5ac4323.js": "/MonstersForHire/precache-manifest.e0d21ac1019368676ead2e9fc5ac4323.js",
+    "service-worker.js": "/MonstersForHire/service-worker.js",
+    "static/css/main.37187d87.chunk.css.map": "/MonstersForHire/static/css/main.37187d87.chunk.css.map"
+  }
+}
